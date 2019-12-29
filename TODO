@@ -1,0 +1,49 @@
+✔️ - Finished
+➖ - Partial
+❌ - Not Finished
+💤 - Non compliant
+
+Phase I: Beginning                         ❌
+Setting up a Cross-Toolchain               💤
+Creating a Hello World kernel              ✔️
+Setting up a Project                       ✔️
+Calling Global Constructors                ✔️
+Terminal Support                           ✔️
+Stack Smash Protector                      💤
+Multiboot                                  ✔️
+Global Descriptor Table                    ✔️
+Memory Management                          ❌
+Interrupts                                 ❌
+Multithreaded Kernel                       ❌
+Keyboard                                   ❌
+Internal Kernel Debugger                   ❌
+Filesystem Support                         ❌
+
+Phase II: User-Space                       ❌
+User-Space                                 ❌
+Program Loading                            ❌
+System Calls                               ❌
+OS Specific Toolchain                      ❌
+Creating a C Library                       ➖
+Fork and Execute                           ❌
+Shell                                      ❌
+                                        
+Phase III: Extending your Operating System ❌
+Time                                       ❌
+Threads                                    ❌
+Thread Local Storage                       ❌
+Symmetric Multiprocessing                  ❌
+Secondary Storage                          ❌
+Real Filesystems                           ❌
+Graphics                                   ❌
+User Interface                             ❌
+Networking                                 ❌
+Sound                                      ❌
+Universal Serial Bus                       ❌
+                                        
+Phase IV: Bootstrapping                    ❌
+Porting Software                           ❌
+Porting GCC                                ❌
+Compiling your OS under your OS            ❌
+Fully Self-hosting                         ❌
+                                        
